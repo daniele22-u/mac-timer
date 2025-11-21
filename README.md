@@ -7,3 +7,6 @@ Scritta in Python (tkinter) e pacchettizzata con PyInstaller.
 
 ```bash
 python app.py
+## Licenza
+
+Questo progetto è rilasciato sotto licenza MIT.
